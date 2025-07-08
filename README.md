@@ -1,16 +1,8 @@
 # advanced_course
+#create  A splash screen
+#create aflutter luancher icons
+#create onboarding screen
+![image](https://github.com/user-attachments/assets/348d6a95-246a-4b26-9e2d-75cb9192b903)
+![image](https://github.com/user-attachments/assets/a4156f32-38e6-4cae-84c9-01a4b528e2ac)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
