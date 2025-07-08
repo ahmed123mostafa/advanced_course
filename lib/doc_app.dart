@@ -18,14 +18,13 @@ class DocApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Doc App',
         theme: ThemeData(
-          primaryColor: AppColors.primaryColor,
+          primaryColor: ColorsManager.mainBlue,
           scaffoldBackgroundColor: Colors.white,
           useMaterial3: true,
         ),
         onGenerateRoute: approuter.generateRoute,
-      initialRoute: Routes.onBoardingScreen,
+        initialRoute: Routes.onBoardingScreen,
       ),
-
     );
   }
 }
